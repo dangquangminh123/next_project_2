@@ -1,0 +1,23 @@
+.header-left img {
+  width: 130px;
+}
+.header-right img {
+  width: 30px;
+}
+.navbar-nav .nav-item {
+  padding: 0 10px;
+}
+.navbar-nav .nav-link{
+  color: black;
+}
+.navbar-nav .nav-link:hover{
+  color: rgb(21, 115, 223);
+}
+
+header {
+  height: 150px;
+}
+
+.fixed-top {
+  background-color: white;
+}

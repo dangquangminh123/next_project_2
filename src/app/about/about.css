@@ -1,0 +1,16 @@
+.backgroundAbout {
+  height: 200px;
+  background-image: url("https://nhanhtravel.com/wp-content/uploads/2022/12/%E2%80%94Pngtree%E2%80%94blue-gradient-minimalistic-template-background_1140882.jpg");
+  background-size:cover;
+  background-position: 0 -145px;
+}
+.text-tileAbout{
+  font-size: 55px;
+}
+.text-contentAbout{
+  font-size: 22px;
+}
+.text-xanhdam{
+  color:#034bb7
+
+}
